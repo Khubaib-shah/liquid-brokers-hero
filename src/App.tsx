@@ -72,7 +72,7 @@ export default function App() {
             Liquid Brokers
           </div>
           
-          <div className="hidden md:flex items-center space-x-8 text-sm font-medium text-gray-300">
+          <div className="hidden md:flex items-center space-x-8 text-lg font-medium text-white/80">
             <a href="#" className="hover:text-white transition-colors">About</a>
             <button className="flex items-center space-x-1 hover:text-white transition-colors">
               <span>Trading</span>
