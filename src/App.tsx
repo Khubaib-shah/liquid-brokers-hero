@@ -144,7 +144,7 @@ export default function App() {
               initial={{ opacity: 0, x: 50 }}
               animate={{ opacity: isLoading ? 0 : 1, x: isLoading ? 50 : 0 }}
               transition={{ duration: 0.8, delay: 0.9 }}
-              className="absolute right-0 md:right-10 bottom-4 md:bottom-0 w-48 md:w-64 p-4 md:p-5 bg-zinc-900/80 backdrop-blur-md border border-white/10 rounded-2xl md:rounded-3xl shadow-2xl"
+              className="absolute right-0 md:right-10 bottom-4 md:bottom-20! w-48 md:w-64 p-4 md:p-5 bg-zinc-900/80 backdrop-blur-md border border-white/10 rounded-2xl md:rounded-3xl shadow-2xl"
             >
               <div className="flex justify-between items-start mb-3 md:mb-4">
                 <span className="text-[10px] md:text-xs text-gray-400 font-medium">Trading Pairs</span>
