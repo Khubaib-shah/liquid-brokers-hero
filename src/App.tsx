@@ -104,7 +104,7 @@ export default function App() {
             transition={{ duration: 0.8, delay: 0.5 }}
             className="text-center max-w-4xl z-10 mb-8 md:mb-12"
           >
-            <h1 className="text-4xl md:text-6xl lg:text-7xl font-bold tracking-tight mb-4 md:mb-6 leading-[1.1]">
+            <h1 className="text-4xl md:text-6xl lg:text-7xl font-semibold tracking-tight mb-4 md:mb-6 leading-[1.1]">
               Elevate Your <br />
               Trading Experience
             </h1>
